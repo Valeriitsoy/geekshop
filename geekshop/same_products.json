@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Светильник",
+    "desc": "Потолочный",
+    "image_src": "img/product-11.jpg",
+    "alt": "Светильник 11"
+  },
+  {
+    "name": "Кресло",
+    "desc": "Удобное",
+    "image_src": "img/product-21.jpg",
+    "alt": "кресло 21"
+  },
+  {
+    "name": "Лампа настольная",
+    "desc": "Дизайнерское",
+    "image_src": "img/product-31.jpg",
+    "alt": "лампа 31"
+  }
+]
